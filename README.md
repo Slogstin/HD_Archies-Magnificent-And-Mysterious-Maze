@@ -4,6 +4,8 @@ This is a map set for (and requires) [Hideous Destructor](https://codeberg.org/m
 
 The map was built around the Naturist loadout, so it's recommended to start with that at least for the first run(s).
 
+No, the music is not broken. It just plays when you open the door.
+
 Difficulties change the number of Archviles on the map. (Hideous and Beautiful have the same number of Archies though.)
 
 There are Co-op spawns and Co-op exclusive monsters & items. (Someone please test this map in Co-op, so i know if it's good or too easy.)
