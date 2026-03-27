@@ -1,0 +1,11 @@
+map map01 "Nek's Maze"
+{
+	next = "Map01"
+	sky1 = "DRTYSKY9"
+	music = ""
+}
+
+doomednums
+{
+	23421 =	TheTreasureOfEvil
+}
